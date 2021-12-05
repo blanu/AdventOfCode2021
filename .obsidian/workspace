@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day 1/Part 2 - sliding windows.md",
-            "mode": "preview"
+            "file": "Day 2/Part 2 - aiming.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 1/Part 2 - sliding windows.md",
+                "file": "Day 2/Part 2 - aiming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,9 @@
   },
   "active": "9a22f98ed284ffc2",
   "lastOpenFiles": [
+    "Day 2/Part 2 - aiming.md",
+    "Day 2/Part 1 - motion.md",
+    "README.md",
     "Day 1/Part 2 - sliding windows.md",
     "Day 1/Part 1 - submarine depths.md"
   ]
